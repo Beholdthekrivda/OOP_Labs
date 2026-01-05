@@ -1,0 +1,5 @@
+/home/bruh263/ООП/labs/cmake/CMakeFiles/Lab3.dir
+/home/bruh263/ООП/labs/cmake/CMakeFiles/edit_cache.dir
+/home/bruh263/ООП/labs/cmake/CMakeFiles/rebuild_cache.dir
+/home/bruh263/ООП/labs/cmake/SBase/CMakeFiles/edit_cache.dir
+/home/bruh263/ООП/labs/cmake/SBase/CMakeFiles/rebuild_cache.dir
