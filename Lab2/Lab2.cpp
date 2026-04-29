@@ -439,6 +439,7 @@ void testmatrix_ptr()
 
 int main()
 {
-    
+    testvector_ptr();
+
     return 0;
 }
