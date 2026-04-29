@@ -4,11 +4,7 @@
 #include <ostream>
 #include <time.h>
 #include <cstring>
-// g++ test.cpp -o test && ./test 
-// 1. (решено) разобраться с ошибкой "terminate called after throwing an instance of 'std::bad_array_new_length'"
-// 2. ошибка с delete, понимание работы
-// 3. отличия создания переменной в стеке от создания в куче
-// 4. (решено см. 1 проблему) разобраться почему первые элементы массива array пропадают, если array создан как указатель
+
 using namespace std;
 
 class CStr
